@@ -44,8 +44,8 @@ def get_result_cosine(content_a, content_b):
     cosine_result = get_cosine(vector1, vector2)
     return cosine_result	
 '''
-tweet1="Hi i am saswata live in patna residing in boys hostel at IIT Patna where do u live in"
-tweet2="tweet retweet Hi i am brijendra live in patna residing in boys hostel at IIT Madras @manish #riot afaf sffsfs afafaf afgafaff"
+tweet1="Hi i am Shreyas live in patna residing in boys hostel at IIT Patna where do u live in"
+tweet2="tweet retweet Hi i am Bharadwaj live in patna residing in boys hostel at IIT Madras @manish #riot afaf sffsfs afafaf afgafaff"
 x=get_result_cosine(tweet1,tweet2)
 print x
 '''
