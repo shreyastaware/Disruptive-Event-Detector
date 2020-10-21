@@ -14,10 +14,10 @@ MONGO_HOST= 'mongodb://localhost/Event'
 #WORDS = ['#bigdata', '#AI', '#datascience', '#machinelearning', '#ml', '#iot']
 
 
-CONSUMER_KEY = "KRcmUqbYaT6bC3lRxZbFyP76K"
-CONSUMER_SECRET = "NVWLuCjq4h0tS2xFhNfEVh0kijRQkwIXZ7iZGLAdByc7TZpdmx"
-ACCESS_TOKEN = "917327613009346561-wAu4RVeOukwW9XL9jUYe6OH0Ds0KcbM"
-ACCESS_TOKEN_SECRET = "LWkxtMXdMBxiljxNbbMlD1JNPrAA3qtAsXx901f6KTPfC"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 
 class StreamListener(tweepy.StreamListener):    
     #This is a class provided by tweepy to access the Twitter Streaming API. 
